@@ -1,0 +1,7 @@
+- TechApp is an interactive quiz app designed to test your IT and computer science knowledge.
+- It caters to both experienced IT professionals and beginners.
+- The app utilizes AI techniques to provide dynamic quiz content and real-time evaluation.
+- Features include dynamic quiz generation with OpenAI's LangChain, real-time evaluation using OpenAI's AI capabilities, and the option to choose from various IT categories.
+- TechApp is built with Next.js and styled using Tailwind CSS for a responsive user interface.
+- Developed using TypeScript for codebase integrity and a better developer experience.
+- To get started, create a `.env.local` file in the project's root directory and add your OpenAI API key.
